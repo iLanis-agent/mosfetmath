@@ -1,0 +1,834 @@
+{
+ "cases": [
+  {
+   "fn": "switch",
+   "args": [
+    "40",
+    "20"
+   ],
+   "expect": "A 40 nC gate driven at 20 mA switches in 2000 ns."
+  },
+  {
+   "fn": "gate",
+   "args": [
+    "10",
+    "22"
+   ],
+   "expect": "A 10 V driver through 22 Ω peaks at 454.55 mA of gate current."
+  },
+  {
+   "fn": "conduction",
+   "args": [
+    "10",
+    "4"
+   ],
+   "expect": "10 A through 4 mΩ works out to 0.4 W of conduction loss."
+  },
+  {
+   "fn": "switch",
+   "args": [
+    "5363",
+    "4842"
+   ],
+   "expect": "A 5363 nC gate driven at 4842 mA switches in 1108 ns."
+  },
+  {
+   "fn": "gate",
+   "args": [
+    "94.65",
+    "7121.58"
+   ],
+   "expect": "A 94.65 V driver through 7121.58 Ω peaks at 13.29 mA of gate current."
+  },
+  {
+   "fn": "conduction",
+   "args": [
+    "15.91",
+    "98524.58"
+   ],
+   "expect": "15.91 A through 98524.58 mΩ works out to 24939.34 W of conduction loss."
+  },
+  {
+   "fn": "switch",
+   "args": [
+    "3991",
+    "5749"
+   ],
+   "expect": "A 3991 nC gate driven at 5749 mA switches in 694 ns."
+  },
+  {
+   "fn": "gate",
+   "args": [
+    "26.1",
+    "846.01"
+   ],
+   "expect": "A 26.1 V driver through 846.01 Ω peaks at 30.85 mA of gate current."
+  },
+  {
+   "fn": "conduction",
+   "args": [
+    "75.32",
+    "79744.8"
+   ],
+   "expect": "75.32 A through 79744.8 mΩ works out to 452400.42 W of conduction loss."
+  },
+  {
+   "fn": "switch",
+   "args": [
+    "3168",
+    "9840"
+   ],
+   "expect": "A 3168 nC gate driven at 9840 mA switches in 322 ns."
+  },
+  {
+   "fn": "gate",
+   "args": [
+    "19.67",
+    "6631.85"
+   ],
+   "expect": "A 19.67 V driver through 6631.85 Ω peaks at 2.97 mA of gate current."
+  },
+  {
+   "fn": "conduction",
+   "args": [
+    "18.32",
+    "15326.83"
+   ],
+   "expect": "18.32 A through 15326.83 mΩ works out to 5144.03 W of conduction loss."
+  },
+  {
+   "fn": "switch",
+   "args": [
+    "112",
+    "9406"
+   ],
+   "expect": "A 112 nC gate driven at 9406 mA switches in 12 ns."
+  },
+  {
+   "fn": "gate",
+   "args": [
+    "1.49",
+    "7003.63"
+   ],
+   "expect": "A 1.49 V driver through 7003.63 Ω peaks at 0.21 mA of gate current."
+  },
+  {
+   "fn": "conduction",
+   "args": [
+    "21.44",
+    "31205.66"
+   ],
+   "expect": "21.44 A through 31205.66 mΩ works out to 14344.42 W of conduction loss."
+  },
+  {
+   "fn": "switch",
+   "args": [
+    "1737",
+    "7514"
+   ],
+   "expect": "A 1737 nC gate driven at 7514 mA switches in 231 ns."
+  },
+  {
+   "fn": "gate",
+   "args": [
+    "92.65",
+    "9053.6"
+   ],
+   "expect": "A 92.65 V driver through 9053.6 Ω peaks at 10.23 mA of gate current."
+  },
+  {
+   "fn": "conduction",
+   "args": [
+    "93.72",
+    "96733.4"
+   ],
+   "expect": "93.72 A through 96733.4 mΩ works out to 849651.86 W of conduction loss."
+  },
+  {
+   "fn": "switch",
+   "args": [
+    "4339",
+    "2270"
+   ],
+   "expect": "A 4339 nC gate driven at 2270 mA switches in 1911 ns."
+  },
+  {
+   "fn": "gate",
+   "args": [
+    "66.89",
+    "1551.14"
+   ],
+   "expect": "A 66.89 V driver through 1551.14 Ω peaks at 43.12 mA of gate current."
+  },
+  {
+   "fn": "conduction",
+   "args": [
+    "40.46",
+    "13982.99"
+   ],
+   "expect": "40.46 A through 13982.99 mΩ works out to 22890.32 W of conduction loss."
+  },
+  {
+   "fn": "switch",
+   "args": [
+    "7183",
+    "7198"
+   ],
+   "expect": "A 7183 nC gate driven at 7198 mA switches in 998 ns."
+  },
+  {
+   "fn": "gate",
+   "args": [
+    "51.12",
+    "7246.33"
+   ],
+   "expect": "A 51.12 V driver through 7246.33 Ω peaks at 7.05 mA of gate current."
+  },
+  {
+   "fn": "conduction",
+   "args": [
+    "35.93",
+    "6977.16"
+   ],
+   "expect": "35.93 A through 6977.16 mΩ works out to 9007.27 W of conduction loss."
+  },
+  {
+   "fn": "switch",
+   "args": [
+    "8344",
+    "9159"
+   ],
+   "expect": "A 8344 nC gate driven at 9159 mA switches in 911 ns."
+  },
+  {
+   "fn": "gate",
+   "args": [
+    "97.02",
+    "3887.42"
+   ],
+   "expect": "A 97.02 V driver through 3887.42 Ω peaks at 24.96 mA of gate current."
+  },
+  {
+   "fn": "conduction",
+   "args": [
+    "21.21",
+    "46458.39"
+   ],
+   "expect": "21.21 A through 46458.39 mΩ works out to 20899.96 W of conduction loss."
+  },
+  {
+   "fn": "switch",
+   "args": [
+    "7354",
+    "4315"
+   ],
+   "expect": "A 7354 nC gate driven at 4315 mA switches in 1704 ns."
+  },
+  {
+   "fn": "gate",
+   "args": [
+    "97.96",
+    "7036.03"
+   ],
+   "expect": "A 97.96 V driver through 7036.03 Ω peaks at 13.92 mA of gate current."
+  },
+  {
+   "fn": "conduction",
+   "args": [
+    "1.9",
+    "48449.68"
+   ],
+   "expect": "1.9 A through 48449.68 mΩ works out to 174.9 W of conduction loss."
+  },
+  {
+   "fn": "switch",
+   "args": [
+    "9326",
+    "7748"
+   ],
+   "expect": "A 9326 nC gate driven at 7748 mA switches in 1204 ns."
+  },
+  {
+   "fn": "gate",
+   "args": [
+    "57.43",
+    "56.02"
+   ],
+   "expect": "A 57.43 V driver through 56.02 Ω peaks at 1025.17 mA of gate current."
+  },
+  {
+   "fn": "conduction",
+   "args": [
+    "39.64",
+    "66703.91"
+   ],
+   "expect": "39.64 A through 66703.91 mΩ works out to 104813.83 W of conduction loss."
+  },
+  {
+   "fn": "switch",
+   "args": [
+    "4118",
+    "4000"
+   ],
+   "expect": "A 4118 nC gate driven at 4000 mA switches in 1030 ns."
+  },
+  {
+   "fn": "gate",
+   "args": [
+    "91.23",
+    "4662.15"
+   ],
+   "expect": "A 91.23 V driver through 4662.15 Ω peaks at 19.57 mA of gate current."
+  },
+  {
+   "fn": "conduction",
+   "args": [
+    "17.04",
+    "24834.11"
+   ],
+   "expect": "17.04 A through 24834.11 mΩ works out to 7210.87 W of conduction loss."
+  },
+  {
+   "fn": "switch",
+   "args": [
+    "4909",
+    "1495"
+   ],
+   "expect": "A 4909 nC gate driven at 1495 mA switches in 3284 ns."
+  },
+  {
+   "fn": "gate",
+   "args": [
+    "86.6",
+    "726.94"
+   ],
+   "expect": "A 86.6 V driver through 726.94 Ω peaks at 119.13 mA of gate current."
+  },
+  {
+   "fn": "conduction",
+   "args": [
+    "14.09",
+    "37195.47"
+   ],
+   "expect": "14.09 A through 37195.47 mΩ works out to 7384.35 W of conduction loss."
+  },
+  {
+   "fn": "switch",
+   "args": [
+    "5232",
+    "1622"
+   ],
+   "expect": "A 5232 nC gate driven at 1622 mA switches in 3226 ns."
+  },
+  {
+   "fn": "gate",
+   "args": [
+    "1.27",
+    "1794.49"
+   ],
+   "expect": "A 1.27 V driver through 1794.49 Ω peaks at 0.71 mA of gate current."
+  },
+  {
+   "fn": "conduction",
+   "args": [
+    "74.38",
+    "84563.97"
+   ],
+   "expect": "74.38 A through 84563.97 mΩ works out to 467840.39 W of conduction loss."
+  },
+  {
+   "fn": "switch",
+   "args": [
+    "6434",
+    "6574"
+   ],
+   "expect": "A 6434 nC gate driven at 6574 mA switches in 979 ns."
+  },
+  {
+   "fn": "gate",
+   "args": [
+    "33.66",
+    "2151.61"
+   ],
+   "expect": "A 33.66 V driver through 2151.61 Ω peaks at 15.64 mA of gate current."
+  },
+  {
+   "fn": "conduction",
+   "args": [
+    "25.64",
+    "40053.44"
+   ],
+   "expect": "25.64 A through 40053.44 mΩ works out to 26331.52 W of conduction loss."
+  },
+  {
+   "fn": "switch",
+   "args": [
+    "4226",
+    "629"
+   ],
+   "expect": "A 4226 nC gate driven at 629 mA switches in 6719 ns."
+  },
+  {
+   "fn": "gate",
+   "args": [
+    "19.2",
+    "5444.21"
+   ],
+   "expect": "A 19.2 V driver through 5444.21 Ω peaks at 3.53 mA of gate current."
+  },
+  {
+   "fn": "conduction",
+   "args": [
+    "63.97",
+    "20345.2"
+   ],
+   "expect": "63.97 A through 20345.2 mΩ works out to 83255.83 W of conduction loss."
+  },
+  {
+   "fn": "switch",
+   "args": [
+    "5952",
+    "4881"
+   ],
+   "expect": "A 5952 nC gate driven at 4881 mA switches in 1219 ns."
+  },
+  {
+   "fn": "gate",
+   "args": [
+    "8.89",
+    "8019.08"
+   ],
+   "expect": "A 8.89 V driver through 8019.08 Ω peaks at 1.11 mA of gate current."
+  },
+  {
+   "fn": "conduction",
+   "args": [
+    "27.97",
+    "82578.54"
+   ],
+   "expect": "27.97 A through 82578.54 mΩ works out to 64602.92 W of conduction loss."
+  },
+  {
+   "fn": "switch",
+   "args": [
+    "1122",
+    "4765"
+   ],
+   "expect": "A 1122 nC gate driven at 4765 mA switches in 235 ns."
+  },
+  {
+   "fn": "gate",
+   "args": [
+    "4.23",
+    "4940.82"
+   ],
+   "expect": "A 4.23 V driver through 4940.82 Ω peaks at 0.86 mA of gate current."
+  },
+  {
+   "fn": "conduction",
+   "args": [
+    "75.91",
+    "45013.74"
+   ],
+   "expect": "75.91 A through 45013.74 mΩ works out to 259383.94 W of conduction loss."
+  },
+  {
+   "fn": "switch",
+   "args": [
+    "4049",
+    "2761"
+   ],
+   "expect": "A 4049 nC gate driven at 2761 mA switches in 1466 ns."
+  },
+  {
+   "fn": "gate",
+   "args": [
+    "71.33",
+    "8429.85"
+   ],
+   "expect": "A 71.33 V driver through 8429.85 Ω peaks at 8.46 mA of gate current."
+  },
+  {
+   "fn": "conduction",
+   "args": [
+    "36.68",
+    "77396.11"
+   ],
+   "expect": "36.68 A through 77396.11 mΩ works out to 104130.46 W of conduction loss."
+  },
+  {
+   "fn": "switch",
+   "args": [
+    "2976",
+    "401"
+   ],
+   "expect": "A 2976 nC gate driven at 401 mA switches in 7421 ns."
+  },
+  {
+   "fn": "gate",
+   "args": [
+    "37.23",
+    "1548.3"
+   ],
+   "expect": "A 37.23 V driver through 1548.3 Ω peaks at 24.05 mA of gate current."
+  },
+  {
+   "fn": "conduction",
+   "args": [
+    "28.82",
+    "48293.12"
+   ],
+   "expect": "28.82 A through 48293.12 mΩ works out to 40111.9 W of conduction loss."
+  },
+  {
+   "fn": "switch",
+   "args": [
+    "9551",
+    "2654"
+   ],
+   "expect": "A 9551 nC gate driven at 2654 mA switches in 3599 ns."
+  },
+  {
+   "fn": "gate",
+   "args": [
+    "30.5",
+    "9682.01"
+   ],
+   "expect": "A 30.5 V driver through 9682.01 Ω peaks at 3.15 mA of gate current."
+  },
+  {
+   "fn": "conduction",
+   "args": [
+    "6.54",
+    "17392.14"
+   ],
+   "expect": "6.54 A through 17392.14 mΩ works out to 743.89 W of conduction loss."
+  },
+  {
+   "fn": "switch",
+   "args": [
+    "843",
+    "2974"
+   ],
+   "expect": "A 843 nC gate driven at 2974 mA switches in 283 ns."
+  },
+  {
+   "fn": "gate",
+   "args": [
+    "87.94",
+    "4126.48"
+   ],
+   "expect": "A 87.94 V driver through 4126.48 Ω peaks at 21.31 mA of gate current."
+  },
+  {
+   "fn": "conduction",
+   "args": [
+    "31.57",
+    "65321.61"
+   ],
+   "expect": "31.57 A through 65321.61 mΩ works out to 65103.76 W of conduction loss."
+  },
+  {
+   "fn": "switch",
+   "args": [
+    "2681",
+    "3831"
+   ],
+   "expect": "A 2681 nC gate driven at 3831 mA switches in 700 ns."
+  },
+  {
+   "fn": "gate",
+   "args": [
+    "39.88",
+    "5122.49"
+   ],
+   "expect": "A 39.88 V driver through 5122.49 Ω peaks at 7.79 mA of gate current."
+  },
+  {
+   "fn": "conduction",
+   "args": [
+    "96.83",
+    "51806.11"
+   ],
+   "expect": "96.83 A through 51806.11 mΩ works out to 485736.62 W of conduction loss."
+  },
+  {
+   "fn": "switch",
+   "args": [
+    "1752",
+    "3583"
+   ],
+   "expect": "A 1752 nC gate driven at 3583 mA switches in 489 ns."
+  },
+  {
+   "fn": "gate",
+   "args": [
+    "18.34",
+    "9928.22"
+   ],
+   "expect": "A 18.34 V driver through 9928.22 Ω peaks at 1.85 mA of gate current."
+  },
+  {
+   "fn": "conduction",
+   "args": [
+    "70.51",
+    "15064.09"
+   ],
+   "expect": "70.51 A through 15064.09 mΩ works out to 74893.54 W of conduction loss."
+  },
+  {
+   "fn": "switch",
+   "args": [
+    "373",
+    "918"
+   ],
+   "expect": "A 373 nC gate driven at 918 mA switches in 406 ns."
+  },
+  {
+   "fn": "gate",
+   "args": [
+    "89.84",
+    "4644.96"
+   ],
+   "expect": "A 89.84 V driver through 4644.96 Ω peaks at 19.34 mA of gate current."
+  },
+  {
+   "fn": "conduction",
+   "args": [
+    "25.15",
+    "18217.15"
+   ],
+   "expect": "25.15 A through 18217.15 mΩ works out to 11522.76 W of conduction loss."
+  },
+  {
+   "fn": "switch",
+   "args": [
+    "5604",
+    "5036"
+   ],
+   "expect": "A 5604 nC gate driven at 5036 mA switches in 1113 ns."
+  },
+  {
+   "fn": "gate",
+   "args": [
+    "60.1",
+    "3209.25"
+   ],
+   "expect": "A 60.1 V driver through 3209.25 Ω peaks at 18.73 mA of gate current."
+  },
+  {
+   "fn": "conduction",
+   "args": [
+    "29.38",
+    "59597.6"
+   ],
+   "expect": "29.38 A through 59597.6 mΩ works out to 51443.72 W of conduction loss."
+  },
+  {
+   "fn": "switch",
+   "args": [
+    "383",
+    "3741"
+   ],
+   "expect": "A 383 nC gate driven at 3741 mA switches in 102 ns."
+  },
+  {
+   "fn": "gate",
+   "args": [
+    "4.22",
+    "1509.61"
+   ],
+   "expect": "A 4.22 V driver through 1509.61 Ω peaks at 2.8 mA of gate current."
+  },
+  {
+   "fn": "conduction",
+   "args": [
+    "33.13",
+    "60248.29"
+   ],
+   "expect": "33.13 A through 60248.29 mΩ works out to 66128.34 W of conduction loss."
+  },
+  {
+   "fn": "switch",
+   "args": [
+    "1172",
+    "2298"
+   ],
+   "expect": "A 1172 nC gate driven at 2298 mA switches in 510 ns."
+  },
+  {
+   "fn": "gate",
+   "args": [
+    "28.98",
+    "6981.84"
+   ],
+   "expect": "A 28.98 V driver through 6981.84 Ω peaks at 4.15 mA of gate current."
+  },
+  {
+   "fn": "conduction",
+   "args": [
+    "58.66",
+    "6540.49"
+   ],
+   "expect": "58.66 A through 6540.49 mΩ works out to 22505.8 W of conduction loss."
+  },
+  {
+   "fn": "switch",
+   "args": [
+    "9910",
+    "2768"
+   ],
+   "expect": "A 9910 nC gate driven at 2768 mA switches in 3580 ns."
+  },
+  {
+   "fn": "gate",
+   "args": [
+    "7.68",
+    "3161.87"
+   ],
+   "expect": "A 7.68 V driver through 3161.87 Ω peaks at 2.43 mA of gate current."
+  },
+  {
+   "fn": "conduction",
+   "args": [
+    "39.71",
+    "24659.88"
+   ],
+   "expect": "39.71 A through 24659.88 mΩ works out to 38885.77 W of conduction loss."
+  },
+  {
+   "fn": "switch",
+   "args": [
+    "4204",
+    "7005"
+   ],
+   "expect": "A 4204 nC gate driven at 7005 mA switches in 600 ns."
+  },
+  {
+   "fn": "gate",
+   "args": [
+    "69.78",
+    "1490.46"
+   ],
+   "expect": "A 69.78 V driver through 1490.46 Ω peaks at 46.82 mA of gate current."
+  },
+  {
+   "fn": "conduction",
+   "args": [
+    "7.16",
+    "10411.24"
+   ],
+   "expect": "7.16 A through 10411.24 mΩ works out to 533.74 W of conduction loss."
+  },
+  {
+   "fn": "switch",
+   "args": [
+    "6844",
+    "5123"
+   ],
+   "expect": "A 6844 nC gate driven at 5123 mA switches in 1336 ns."
+  },
+  {
+   "fn": "gate",
+   "args": [
+    "88.14",
+    "243.87"
+   ],
+   "expect": "A 88.14 V driver through 243.87 Ω peaks at 361.42 mA of gate current."
+  },
+  {
+   "fn": "conduction",
+   "args": [
+    "92.58",
+    "72453.9"
+   ],
+   "expect": "92.58 A through 72453.9 mΩ works out to 621006.46 W of conduction loss."
+  }
+ ],
+ "errors": [
+  [
+   "switch",
+   [
+    "0",
+    "20"
+   ]
+  ],
+  [
+   "switch",
+   [
+    "10001",
+    "20"
+   ]
+  ],
+  [
+   "switch",
+   [
+    "40",
+    "0"
+   ]
+  ],
+  [
+   "switch",
+   [
+    "1.5",
+    "20"
+   ]
+  ],
+  [
+   "gate",
+   [
+    "0",
+    "22"
+   ]
+  ],
+  [
+   "gate",
+   [
+    "10",
+    "0"
+   ]
+  ],
+  [
+   "gate",
+   [
+    "101",
+    "22"
+   ]
+  ],
+  [
+   "gate",
+   [
+    "10",
+    "10000.001"
+   ]
+  ],
+  [
+   "conduction",
+   [
+    "0",
+    "4"
+   ]
+  ],
+  [
+   "conduction",
+   [
+    "10",
+    "0"
+   ]
+  ],
+  [
+   "conduction",
+   [
+    "100.001",
+    "4"
+   ]
+  ],
+  [
+   "conduction",
+   [
+    "10",
+    "100000.001"
+   ]
+  ]
+ ]
+}
